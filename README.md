@@ -1,6 +1,6 @@
 # Blog Description
 
-course link ➡️ [react-redux](https://www.udemy.com/course/react-redux/)
+Course link ➡️ [react-redux](https://www.udemy.com/course/react-redux/)
 
 Use Redux(react-redux), redux-thunk, lodash, jsonPlaceholder
 
